@@ -1,2 +1,0 @@
-# openbaton
-Openbaton Scripts
